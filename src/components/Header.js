@@ -8,7 +8,7 @@ export function Header() {
                 className="header--image"
             />
             <h2 className="header--title">Meme Generator</h2>
-            <h4 className="header--projectName">React Course - Project 3</h4>
+            <h4 className="header--projectName">Just a fun React project!</h4>
         </header>
     )
 }
